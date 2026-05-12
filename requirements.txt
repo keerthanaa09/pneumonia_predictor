@@ -1,7 +1,7 @@
 tensorflow-cpu
 keras
 numpy
-matplotlib
-opencv-python
+pillow
+opencv-python-headless
 streamlit
 scikit-learn
